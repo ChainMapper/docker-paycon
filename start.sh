@@ -4,7 +4,7 @@ configfile=$1
 ticker=$2
 walletdaemon=$3
 
-datadir=/data/wallet
+datadir=/data/.PayCon
 configdir="/config"
 walletfile="wallet.dat"
 echo "Docker $ticker wallet
