@@ -4,6 +4,7 @@ cat  << EOF
 rpcuser=$USER
 rpcpassword=$PASSWORD
 rpcallowip=$RPCALLOW
+rpcport=8332
 txindex=1
 addnode=ljs4riunjj46ni4n.onion:9455
 addnode=3pvonbk5ioo4jj3j.onion:9455
